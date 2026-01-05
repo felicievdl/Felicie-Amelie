@@ -7,7 +7,7 @@ project:
     - name: Félicie van der Leij
 
   date: 2025-11-05
-  github: https://felicievdl.github.io/Felicie-Amelie/ # Change this URL to your GitHub repository
+  github: https://github.com/felicievdl/Felicie-Amelie # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://felicievdl.github.io/Felicie-Amelie/ # change this URL to your repository
+      url: https://github.com/felicievdl/Felicie-Amelie # change this URL to your repository
